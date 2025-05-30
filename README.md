@@ -129,16 +129,15 @@ The dataset is licensed under the Creative Commons Attribution-NonCommercial-Sha
 ## Citation
 
 ```bibtex
-@inproceedings{,
-    title = { VideoConviction: A Multimodal Benchmark for Human Conviction and Stock Market Recommendations},
-    author = {},
-    booktitle = "",
-    publisher = "",
-    year = {2025},
-    url = "",
-    doi = ""
-    pages = "",
-    abstract = ""
+@inproceedings{galarnyk2025videoconviction,
+  author = {Michael Galarnyk and Veer Kejriwal and Agam Shah and Yash Bhardwaj and Nicholas Watney Meyer and Anand Krishnan and Sudheer Chava},
+  title = {VideoConviction: A Multimodal Benchmark for Human Conviction and Stock Market Recommendations},
+  booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25)},
+  year = {2025},
+  location = {Toronto, ON, Canada},
+  pages = {12},
+  publisher = {ACM},
+  doi = {10.1145/3711896.3737417}
 }
 ```
 
