@@ -5,7 +5,7 @@
   <a href="https://arxiv.org/abs/2502.02696">
     <img src="https://img.shields.io/badge/arXiv-2502.02696-b31b1b" alt="arXiv PDF">
   </a>
-  <a href="[https://videoconviction.com/leaderboard](https://huggingface.co/spaces/gtfintechlab/VideoConvictionLeaderboard)">
+  <a href="https://huggingface.co/spaces/gtfintechlab/VideoConvictionLeaderboard">
     <img src="https://img.shields.io/badge/Leaderboard-View-blueviolet?logo=ranking" alt="Leaderboard">
   </a>
   <a href="https://huggingface.co/datasets/gtfintechlab/VideoConviction">
