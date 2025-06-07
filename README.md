@@ -63,7 +63,7 @@ Implements a comprehensive framework for **backtesting** various equity trading 
 ### 2. data_analysis/
 
 **Purpose**:  
-Houses Jupyter notebooks for **exploratory data analysis (EDA)** on the annotated dataset.
+Houses Jupyter notebooks for **exploratory data analysis (EDA)** on the expert annotated dataset.
 
 ----------
 
