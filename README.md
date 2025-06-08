@@ -11,9 +11,6 @@
   <a href="https://huggingface.co/datasets/gtfintechlab/VideoConviction">
     <img src="https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface" alt="Hugging Face Dataset">
   </a>
-  <a href="https://youtu.be/4tJTEmNbt-Y?si=NyUCWoTovQIhYZG5">
-    <img src="https://img.shields.io/badge/Presentation-YouTube-red?logo=youtube" alt="YouTube Presentation">
-  </a>
 </p>
 
 <p align="center">
