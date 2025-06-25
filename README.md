@@ -2,8 +2,8 @@
                 VideoConviction: A Multimodal Benchmark for Human Conviction and Stock Market Recommendations</h1>                
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2502.02696">
-    <img src="https://img.shields.io/badge/arXiv-2502.02696-b31b1b" alt="arXiv PDF">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5315526">
+    <img src="https://img.shields.io/badge/SSRN-5315526-blue?logo=ssrn" alt="SSRN Paper">
   </a>
   <a href="https://huggingface.co/spaces/gtfintechlab/VideoConvictionLeaderboard">
     <img src="https://img.shields.io/badge/Leaderboard-View-blueviolet?logo=ranking" alt="Leaderboard">
