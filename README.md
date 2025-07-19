@@ -2,6 +2,9 @@
                 VideoConviction: A Multimodal Benchmark for Human Conviction and Stock Market Recommendations</h1>                
 
 <p align="center">
+  <a href="https://youtu.be/A8TD6Oage4E?si=WdfTzRKMhS4XRMJo">
+    <img src="https://img.shields.io/badge/Video-Watch-red?logo=youtube" alt="YouTube Video">
+  </a>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5315526">
     <img src="https://img.shields.io/badge/SSRN-5315526-blue?logo=ssrn" alt="SSRN Paper">
   </a>
