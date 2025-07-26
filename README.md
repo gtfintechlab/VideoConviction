@@ -29,6 +29,9 @@ Georgia Institute of Technology<br/>
 
 <p align="center"><em>*Authors contributed equally</em></p>
 
+<p align="center">
+  <img src="back_testing/computed_graphics/Cumulative_Returns_for_100_Investment.png" alt="Cumulative Returns Graph" width="600"/>
+</p>
 
 ## Abstract
 
